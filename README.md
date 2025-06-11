@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm an engineering student and a passionate software developer in the making, currently exploring the exciting world of web development, with growing interest in AI/ML and cybersecurity.<br><br>💻 Although I’ve worked with multiple languages, C and Python are where I feel most at home. I believe in continuous learning and pushing myself beyond comfort zones to grow every day—whether that’s through writing code, solving real-world problems, or diving into new tech stacks.<br><br>🚀 I’ve worked on various projects (including a stint with Skillshare) and have more exciting ones coming soon! I’m currently focused on mastering the MERN stack, and plan to transition into AI/ML and Data Structures & Algorithms (DSA) to broaden my problem-solving and innovation toolkit.<br><br>📚 I’m constantly learning through online courses, bootcamps, and hands-on experimentation—many of which are highlighted on my [LinkedIn profile](https://www.linkedin.com/in/yash-verma-142914326/).<br><br>🌱 I'm still figuring out my perfect learning style, but one thing’s for sure: I’m curious, determined, and ready to build.
+I'm an engineering student and an aspiring software developer, currently diving into web development with growing interest in AI/ML and cybersecurity.
+
+💻 Skilled in C and Python, and currently mastering the MERN stack while building real-world projects.
+🚀 Past experience includes working with Skillshare; more exciting projects coming soon!
+📚 Always learning through courses, bootcamps, and hands-on practice — check out my [LinkedIn](https://www.linkedin.com/in/yash-verma-142914326/) for more.
 
 
 ## 🌐 Socials:
