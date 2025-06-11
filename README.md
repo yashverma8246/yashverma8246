@@ -1,8 +1,8 @@
 # 💫 About Me:
 I'm an engineering student and an aspiring software developer, currently diving into web development with growing interest in AI/ML and cybersecurity.
 
-💻 Skilled in C and Python, and currently mastering the MERN stack while building real-world projects.
-🚀 Past experience includes working with Skillshare; more exciting projects coming soon!
+💻 Skilled in C and Python, and currently mastering the MERN stack while building real-world projects.<br>
+🚀 Past experience includes working with Skillshare; more exciting projects coming soon!<br>
 📚 Always learning through courses, bootcamps, and hands-on practice — check out my [LinkedIn](https://www.linkedin.com/in/yash-verma-142914326/) for more.
 
 
